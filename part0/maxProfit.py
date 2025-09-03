@@ -3,6 +3,7 @@
 ## Team: Ethan Carpenter, Giri Ravichandran
 ## Date: September 3, 2025
 ## Calculate Max Profit for stock prices
+#
 
 def maxProfit(prices):
     if len(prices) == 0:

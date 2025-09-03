@@ -3,6 +3,7 @@
 ## Team: Ethan Carpenter, Giri Ravichandran
 ## Date: September 3, 2025
 ## Calculate Number of days that require heat and AC
+#
 
 def calcHeaatingCoolingDays():
     heating = 0 #defined local variables at starting position

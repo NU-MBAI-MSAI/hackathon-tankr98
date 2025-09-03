@@ -3,6 +3,7 @@
 ## Team: Ethan Carpenter, Giri Ravichandran
 ## Date: September 3, 2025
 ## Count non punctuation or space characters
+#
 
 def countInput(input):
     count = 0

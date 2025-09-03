@@ -3,6 +3,7 @@
 ## Team: Ethan Carpenter, Giri Ravichandran
 ## Date: September 3, 2025
 ## Calculate Speeding Ticket Cost based on speed and limit
+#
 
 
 def getTicketCost(speedLimit, drivingSpeed):
